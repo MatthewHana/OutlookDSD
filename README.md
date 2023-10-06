@@ -22,6 +22,12 @@ OutlookDSD adds visual indicators displaying the validation results of the DKIM,
 ## Install
 To install the Add-in Simply download the latest package Zip file and run the setup.exe file.
 
+### Requirements 
+OutlookDSD requies the following:
+* [Outlook for Desktop](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
+* [.NET Framework 4.7.2 (or higher)](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2)
+* [Visual Studio 2010 Tools for Office Runtime](http://go.microsoft.com/fwlink/?linkid=140384)
+
 ## Uninstall
 To uninstall OutlookDSD simply use the windows Add or Remove Programs function.
 
