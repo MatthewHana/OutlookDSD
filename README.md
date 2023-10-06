@@ -14,7 +14,7 @@ OutlookDSD adds visual indicators displaying the validation results of the DKIM,
 
 *Valid Email*
 
-<img src="https://github.com/MatthewHana/OutlookDSD/assets/1935851/2cb5d27c-4d0a-4121-8c55-cfa18eaa21b6" width="800px">
+<img src="https://github.com/MatthewHana/OutlookDSD/assets/1935851/41327802-4d8c-4505-b737-b994cfa01082" width="800px">
 
 *Phishing Email*
 
