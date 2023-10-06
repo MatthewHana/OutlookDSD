@@ -2,7 +2,7 @@
 
 ![C#](https://img.shields.io/badge/Language-C%23-green) ![Status](https://img.shields.io/badge/Status-Release-red) ![Ver](https://img.shields.io/badge/Version-1.0.1-blue)
 
-OutlookDSD - A simple add-in for **Outlook** shows **D**KIM, **S**PF and **D**MARC status of an email message in the ribbon.
+OutlookDSD - A simple add-in for **Outlook** that shows the **D**KIM, **S**PF and **D**MARC status of an email message in the ribbon.
 
 ## About & Why?
 Outlook doesn't alert you when an email has failed DKIM, SPF or DMARC validation. This could create security risks by allowing users to fall victim to phishing or other attacks.
