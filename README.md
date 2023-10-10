@@ -38,7 +38,7 @@ To uninstall OutlookDSD simply use the windows Add or Remove Programs function.
 OutlookDSD can be configured from the 'Add-in Options dialog'  in Outlook.
 
 To open the dialog click **File** on the ribbon and select **Options**.
-<img src="https://github.com/MatthewHana/OutlookDSD/assets/1935851/e99abf87-6f53-41fd-bd62-ed082c86e846" width="800px">
+<img src="https://github.com/MatthewHana/OutlookDSD/assets/1935851/5c8988eb-084d-4fe5-8997-1674202c2187" width="800px">
 
 Select **Add-ins** from the left hand, and click the **Add-in Options...** button.
 <img src="https://github.com/MatthewHana/OutlookDSD/assets/1935851/f2f683d0-1b9e-46ae-a024-21a71ad23a60" width="800px">
