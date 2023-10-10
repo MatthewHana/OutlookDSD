@@ -28,11 +28,11 @@ OutlookDSD requies the following:
 * [.NET Framework 4.7.2 (or higher)](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2)
 * [Visual Studio 2010 Tools for Office Runtime](http://go.microsoft.com/fwlink/?linkid=140384)
 
-## Uninstall
-To uninstall OutlookDSD simply use the windows Add or Remove Programs function.
-
-## Download
+### Download
 [Download the latest package v1.0.1.zip from here](https://github.com/MatthewHana/OutlookDSD/releases/download/v1.0.1/OutlookDSD.v1.0.1.zip).
+
+## Uninstall
+To uninstall OutlookDSD simply use the Windows Add or Remove Programs function.
 
 ## Configuration
 OutlookDSD can be configured from the 'Add-in Options dialog'  in Outlook.
