@@ -32,7 +32,7 @@ OutlookDSD requies the following:
 To uninstall OutlookDSD simply use the windows Add or Remove Programs function.
 
 ## Download
-[Download the latest package v1.0.1.zip from here](https://).
+[Download the latest package v1.0.1.zip from here](https://github.com/MatthewHana/OutlookDSD/releases/download/v1.0.1/OutlookDSD.v1.0.1.zip).
 
 ## Configuration
 OutlookDSD can be configured from the 'Add-in Options dialog'  in Outlook.
