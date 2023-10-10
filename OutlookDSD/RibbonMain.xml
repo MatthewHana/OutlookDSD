@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="Ribbon_Load">
+    <ribbon>
+        <tabs>
+			<tab idMso="TabMail">
+				<group id="groupEmailValidation_Main" label="Validation">
+					<button id="emailValidation_Main_DKIM" label="DKIM" getImage="Btn_GetImage" onAction="Btn_Click" getEnabled="Btn_GetEnabled" />
+					<button id="emailValidation_Main_SPF" label="SPF" getImage="Btn_GetImage" onAction="Btn_Click" getEnabled="Btn_GetEnabled" />
+					<button id="emailValidation_Main_DMARC" label="DMARC" getImage="Btn_GetImage" onAction="Btn_Click" getEnabled="Btn_GetEnabled" />
+				</group>
+			</tab>
+		</tabs>
+    </ribbon>
+</customUI>
